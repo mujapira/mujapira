@@ -1,7 +1,10 @@
 <h1 align="center">Hello World!</h1>
 
-### Prazer, meu nome é Maurício, sou um desenvolvedor web apaixonado por tecnologia! <a href="https://www.linkedin.com/in/mauricio-mello-pereira-b6b138221/"><br/>
-<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Prazer, meu nome é Maurício, sou um desenvolvedor web apaixonado por tecnologia!<br/>
+    
+<a href="https://www.linkedin.com/in/mauricio-mello-pereira-b6b138221/">
+<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
 - 🌱 Atualmente estudando <b> React Native e Node.js </b
 - 🚀 Sou experiente em HTML, CSS, JS, ReactJS, React Native, NextJS e Node.js
