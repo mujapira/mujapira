@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-- 🌱 Atualmente estudando <b> React Native e Node.js </b
+- 🌱 Atualmente estudando <b> React Native e Node.js
 - 🚀 Sou experiente em HTML, CSS, JS, ReactJS, React Native, NextJS e Node.js
 - 🏆 Treinamento #Ignite completo pela <a href="https://www.rocketseat.com.br/">@rocketseat</a>
 - 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas na <a href="https://fatecitu.cps.sp.gov.br/">@Faculdade de Tecnologia do Estado de São Paulo</a>
