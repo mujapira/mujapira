@@ -10,9 +10,9 @@
 - 🚀 Sou experiente em HTML, CSS, JS, ReactJS, React Native, NextJS e Node.js
 - 🏆 Treinamento #Ignite completo pela <a href="https://www.rocketseat.com.br/">@rocketseat</a>
 - 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas na <a href="https://fatecitu.cps.sp.gov.br/">@Faculdade de Tecnologia do Estado de São Paulo</a>
-- 👨‍💻 Mais de um ano experiência na área;
+- 👨‍💻 Mais de um ano experiência na área
 -  🎉 Inglês fluente com certificação <a href="https://toeicglobal.com/">TOEIC</a>
-- ⚡ Curiosidades: Amo fotografia e jogos.
+- ⚡ Curiosidades: Amo fotografia e jogos
 
 <h3>Tecnologias❤️</h3>
 <div>
